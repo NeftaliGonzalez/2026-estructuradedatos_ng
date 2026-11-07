@@ -1,0 +1,14 @@
+C:\Users\muebl\Desktop\Estructura de Datos\Tarea7\bin\Debug\net10.0\Tarea7.exe
+C:\Users\muebl\Desktop\Estructura de Datos\Tarea7\bin\Debug\net10.0\Tarea7.deps.json
+C:\Users\muebl\Desktop\Estructura de Datos\Tarea7\bin\Debug\net10.0\Tarea7.runtimeconfig.json
+C:\Users\muebl\Desktop\Estructura de Datos\Tarea7\bin\Debug\net10.0\Tarea7.dll
+C:\Users\muebl\Desktop\Estructura de Datos\Tarea7\bin\Debug\net10.0\Tarea7.pdb
+C:\Users\muebl\Desktop\Estructura de Datos\Tarea7\obj\Debug\net10.0\Tarea7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muebl\Desktop\Estructura de Datos\Tarea7\obj\Debug\net10.0\Tarea7.AssemblyInfoInputs.cache
+C:\Users\muebl\Desktop\Estructura de Datos\Tarea7\obj\Debug\net10.0\Tarea7.AssemblyInfo.cs
+C:\Users\muebl\Desktop\Estructura de Datos\Tarea7\obj\Debug\net10.0\Tarea7.csproj.CoreCompileInputs.cache
+C:\Users\muebl\Desktop\Estructura de Datos\Tarea7\obj\Debug\net10.0\Tarea7.dll
+C:\Users\muebl\Desktop\Estructura de Datos\Tarea7\obj\Debug\net10.0\refint\Tarea7.dll
+C:\Users\muebl\Desktop\Estructura de Datos\Tarea7\obj\Debug\net10.0\Tarea7.pdb
+C:\Users\muebl\Desktop\Estructura de Datos\Tarea7\obj\Debug\net10.0\Tarea7.genruntimeconfig.cache
+C:\Users\muebl\Desktop\Estructura de Datos\Tarea7\obj\Debug\net10.0\ref\Tarea7.dll
